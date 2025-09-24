@@ -246,4 +246,25 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Built with ❤️ using Next.js and TailwindCSS**
+# 🌊 Project Nexus
+
+*Where digital currents converge.*
+
+---
+
+## ⚡ Initialize
+
+```bash
+npm install
+npm run dev
+```
+
+## 🔮 Deploy
+
+```bash
+npm run build
+```
+
+---
+
+*Some things are better left undiscovered.*
